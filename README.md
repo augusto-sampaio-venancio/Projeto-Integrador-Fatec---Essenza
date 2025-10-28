@@ -34,6 +34,25 @@ A iniciativa busca modernizar a forma como as informações são compartilhadas 
 Desenvolvido como parte de um projeto acadêmico da Fatec Jahu, o sistema foi planejado com base no modelo de negócios da Essenza Collection, garantindo que todas as funcionalidades estejam alinhadas às suas necessidades reais e características do mercado de velas. O resultado esperado é uma ferramenta prática, segura e escalável, que contribua diretamente para o crescimento e a organização da empresa.
 
 ## • Objetivos
+Objetivo Geral
+
+Desenvolver um sistema personalizado para a empresa Essenza Collection, com o propósito de melhorar a comunicação interna entre gestores e colaboradores e otimizar os processos de gestão de produtos e vendas, promovendo maior eficiência, organização e integração das atividades da empresa.
+
+# Objetivos Específicos
+
+Criar uma plataforma digital intuitiva que facilite a troca de informações entre os setores da empresa.
+
+Automatizar e simplificar o controle de produtos e processos de venda.
+
+Reduzir falhas de comunicação interna e retrabalho operacional.
+
+Proporcionar relatórios e dados que auxiliem na tomada de decisões gerenciais.
+
+Garantir suporte técnico contínuo e manutenção do sistema.
+
+Implementar boas práticas de desenvolvimento e segurança da informação.
+
+Integrar o sistema às necessidades reais e rotinas específicas da Essenza Collection.
 
 ## • Metodologia
 (Que métodos, tecnologias, modelos de processo, ferramentas irá utilizar?  
