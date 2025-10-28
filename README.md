@@ -27,7 +27,11 @@ Projeto Integrador de alunos da Fatec Jahu. Criado para atender uma necessidade 
 Para cada semestre, do 1º ao 6º, iremos utilizar este template para documentar o PI - incrementalmente.
 
 # 1. Introdução
-(Contextualização, Justificativa (porquê?)
+O Projeto Essenza consiste no desenvolvimento de um sistema personalizado para a empresa Essenza Collection, especializada na produção e comercialização de velas artesanais e decorativas. O sistema foi idealizado com o propósito de otimizar a comunicação interna entre gestores e colaboradores, além de agilizar os processos de gestão de produtos e vendas.
+
+A iniciativa busca modernizar a forma como as informações são compartilhadas e administradas dentro da empresa, proporcionando maior integração entre os setores, melhor controle operacional e eficiência na tomada de decisões.
+
+Desenvolvido como parte de um projeto acadêmico da Fatec Jahu, o sistema foi planejado com base no modelo de negócios da Essenza Collection, garantindo que todas as funcionalidades estejam alinhadas às suas necessidades reais e características do mercado de velas. O resultado esperado é uma ferramenta prática, segura e escalável, que contribua diretamente para o crescimento e a organização da empresa.
 
 ## • Objetivos
 
